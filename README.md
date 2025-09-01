@@ -1,7 +1,7 @@
-# 🛠️ Dowok Consulting Admin Interface
+# 🛠️ InnoLink  Admin Interface
 
 ## 📋 Project Overview
-**Dowok Consulting Admin Interface** is a modern and comprehensive web application designed to manage **consultants, projects, and AI-based matches** within a consulting company.  
+**InnoLink Admin Interface** is a modern and comprehensive web application designed to manage **consultants, projects, and AI-based matches** within a consulting company.  
 This platform provides administrators with a **centralized view** and **powerful tools** to oversee all business operations.
 
 ---
